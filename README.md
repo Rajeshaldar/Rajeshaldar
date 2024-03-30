@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @Rajeshaldar...🌱 I’m currently learning......</h2>
+<h2 align="left">👋 Hi, I’m @Rajeshaldar...</h2>
 
 ###
 
